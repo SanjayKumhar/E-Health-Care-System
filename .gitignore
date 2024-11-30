@@ -1,0 +1,4 @@
+src/javaproject/*.class
+.vscode
+build/
+nbproject/
